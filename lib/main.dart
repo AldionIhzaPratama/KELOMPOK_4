@@ -73,7 +73,7 @@ class LoginPage extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Image.asset(
-              '../asset/images/logo.jpg',
+              '../asset/images/logo1.jpeg',
               height: 250,
               width: 250, // Path gambar logo login Anda
             ),
